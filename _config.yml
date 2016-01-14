@@ -1,0 +1,29 @@
+name: HeronWellness
+favicon: null
+layout_spectrum: 0.4339617232326418
+typography_spectrum: 0.7805291383992881
+title: Heron Wellness
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5186966266483068
+  lightness: 0.2768501341342926
+  saturation: 0.8457864599768072
+  rhythmicContrast: 0.00450715166516602
+purpose: []
